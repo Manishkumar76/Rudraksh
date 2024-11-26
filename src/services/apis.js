@@ -1,4 +1,4 @@
-const BASE_URL ="https://tvhb4j49-5000.inc1.devtunnels.ms/";
+const BASE_URL ="https://tvhb4j49-5000.inc1.devtunnels.ms";
 
 // AUTH ENDPOINTS
 export const endpoints = {
