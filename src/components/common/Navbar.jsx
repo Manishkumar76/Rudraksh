@@ -89,8 +89,8 @@ const Navbar = () => {
             <div className='flex w-11/12 max-w-maxContent items-center justify-between '>
                 {/* logo */}
                 <Link to="/">
-                    {/* <img src={RudrakshLogo} width={160} height={42} loading='lazy' /> */}
-                    <h1 className='w-full bold shadow-md shadow-slate-50 '>Rudraksh</h1>
+                    <img src={RudrakshLogo} className='w-24' loading='lazy' />
+                   
                 </Link>
 
                 {/* Nav Links - visible for only large devices*/}
